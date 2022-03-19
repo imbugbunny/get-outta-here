@@ -33,6 +33,44 @@ https://leetcode.com/discuss/interview-question/1140451/Helpful-list-of-LeetCode
 https://leetcode.com/discuss/interview-question/1061256/Tips-on-System-design-from-a-20%2B-YOE-Engineer
 
 
+**System Design**
+
+https://www.scaleyourapp.com/best-resources-to-learn-software-architecture-system-design/
+
+https://igotanoffer.com/blogs/product-manager/estimation-interview-questions
+
+https://security.stackexchange.com/questions/30403/should-ssl-be-terminated-at-a-load-balancer#:~:text=In%20order%20to%20perform%20deep,app%20servers%20would%20be%20unencrypted.
+
+http://www.steves-internet-guide.com/binary-numbers-explained/
+
+https://github.com/donnemartin/system-design-primer#study-guide
+
+https://www.freecodecamp.org/news/systems-design-for-interviews/
+
+https://github.com/DovAmir/awesome-design-patterns
+
+_Database_
+
+https://medium.com/wegift-engineering/choosing-a-database-f173ea0d3181
+
+_LB/ReverseProxy/Gateway_
+
+https://www.nginx.com/blog/consolidating-your-api-gateway-and-load-balancer-with-nginx/
+
+https://www.baeldung.com/cs/api-gateway-vs-reverse-proxy
+
+https://stackoverflow.com/questions/35756663/api-gateway-vs-reverse-proxy
+
+https://www.nginx.com/blog/building-microservices-using-an-api-gateway/
+
+https://microservicesdev.com/api-gateway-pattern
+
+https://jayendrapatil.com/tag/web-application-firewall-sandwich-architecture/
+
+https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern
+
+
+
 **Low Level Design:**
 
 https://workat.tech/machine-coding/practice/design-tic-tac-toe-smyfi9x064ry
@@ -40,6 +78,10 @@ https://workat.tech/machine-coding/practice/design-tic-tac-toe-smyfi9x064ry
 https://hackernoon.com/the-top-10-object-oriented-design-interview-questions-developers-should-know-c7fc2e13ce39
 
 https://workat.tech/machine-coding/practice
+
+https://github.com/prasadgujar/low-level-design-primer
+
+https://www.udemy.com/course/low-level-system-design-an-interview-perspective/?referralCode=B1BE8B0D4A30D72C3701
 
 **.Net Core:**
 https://softchris.github.io/pages/dotnet-core.html#resources
@@ -66,6 +108,7 @@ https://code-maze.com/different-ways-consume-restful-api-csharp/
 
 
 **C#**
+
 https://github.com/aalhour/C-Sharp-Algorithms
 
 _Coding Conventions:_
@@ -93,6 +136,14 @@ http://www.jcomputers.us/vol13/jcp1304-07.pdf
 _SOLID_
 
 https://www.educative.io/blog/solid-principles-oop-c-sharp
+
+_Cheat Sheet_:
+
+https://github.com/jwill9999/C-Sharp-Cheatsheet
+
+https://simplecheatsheet.com/tag/c-cheat-sheet-1/
+
+https://developer.okta.com/blog/2021/01/13/developers-cheatsheet-csharp-9
 
 
 
@@ -127,6 +178,10 @@ https://www.oreilly.com/library/view/distributed-systems-observability/978149203
 **Microservices**
 
 https://medium.com/platform-engineer/microservices-design-guide-eca0b799a7e8
+
+https://docs.microsoft.com/en-us/azure/architecture/microservices/model/microservice-boundaries
+
+https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/identify-microservice-domain-model-boundaries
 
 
 **Career:**
