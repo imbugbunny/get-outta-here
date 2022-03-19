@@ -1,5 +1,14 @@
 > # get-outta-here
 
+**Read Before Everything**
+
+https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf
+
+https://leetcode.com/discuss/interview-question/1729926/a-guide-for-behavioral-round
+
+
+
+
 **Leetcode Links:**
 
 https://leetcode.com/discuss/study-guide/1820334/become-master-in-tree
@@ -32,6 +41,14 @@ https://leetcode.com/discuss/interview-question/1140451/Helpful-list-of-LeetCode
 
 https://leetcode.com/discuss/interview-question/1061256/Tips-on-System-design-from-a-20%2B-YOE-Engineer
 
+https://leetcode.com/discuss/general-discussion/994570/system-design-interview-framework-core-topic-1-pagers
+
+https://leetcode.com/discuss/study-guide/901324/My-System-Design-Interview-Checklist-A-Gateway-to-FAANGs
+
+https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+
+
+
 
 **System Design**
 
@@ -49,6 +66,20 @@ https://www.freecodecamp.org/news/systems-design-for-interviews/
 
 https://github.com/DovAmir/awesome-design-patterns
 
+https://jayendrapatil.com/tag/web-application-firewall-sandwich-architecture/
+
+https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern
+
+https://coblob.com/blogs/Considerations-for-System-Design-to-solve-Scalability-Consistency-Partition-and-Availability-5b21ac3bbb7f6faaac473688
+
+https://igotanoffer.com/blogs/tech/system-design-interviews
+
+https://workat.tech/system-design/tutorial/system-design-introduction-beginners-nwcf84or6mtu
+
+https://aws.amazon.com/builders-library/challenges-with-distributed-systems/
+
+https://igotanoffer.com/blogs/product-manager/estimation-interview-questions
+
 _Database_
 
 https://medium.com/wegift-engineering/choosing-a-database-f173ea0d3181
@@ -65,10 +96,13 @@ https://www.nginx.com/blog/building-microservices-using-an-api-gateway/
 
 https://microservicesdev.com/api-gateway-pattern
 
-https://jayendrapatil.com/tag/web-application-firewall-sandwich-architecture/
+https://security.stackexchange.com/questions/30403/should-ssl-be-terminated-at-a-load-balancer#:~:text=In%20order%20to%20perform%20deep,app%20servers%20would%20be%20unencrypted.
 
-https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/direct-client-to-microservice-communication-versus-the-api-gateway-pattern
+_Mobile:_
 
+https://artem-goncharov.medium.com/grokking-the-mobile-system-design-interview-6a06fa94491b
+
+https://davescommutebloghome.wpcomstaging.com/2019/08/27/system-design-interview/
 
 
 **Low Level Design:**
@@ -108,6 +142,8 @@ https://code-maze.com/different-ways-consume-restful-api-csharp/
 
 
 **C#**
+
+https://stackoverflow.com/questions/12567329/multidimensional-array-vs
 
 https://github.com/aalhour/C-Sharp-Algorithms
 
@@ -183,6 +219,8 @@ https://docs.microsoft.com/en-us/azure/architecture/microservices/model/microser
 
 https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/identify-microservice-domain-model-boundaries
 
+https://developers.redhat.com/blog/2016/08/02/the-hardest-part-about-microservices-your-data#
+
 
 **Career:**
 
@@ -237,4 +275,47 @@ https://docs.oracle.com/en/database/oracle/oracle-database/19/shard/oracle-shard
 https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning
 
 
+**Products:**
 
+_Kafka:_
+
+https://docs.confluent.io/platform/current/kafka/design.html#
+
+https://developer.confluent.io/what-is-apache-kafka/?_ga=2.216850398.959139995.1643799909-1947595428.1643110597
+
+
+**Cloud:**
+
+_AWS_
+
+https://drive.google.com/file/d/1Qo4DJFxyYwuhjLfJ24oXvA3bmG9Cvfnw/view
+
+https://jayendrapatil.com/aws-certified-solutions-architect-associate-saa-c02-exam-learning-path/
+
+https://seanjziegler.com/learning-aws-on-your-own-10-services-you-need-to-know/
+
+https://instances.vantage.sh/
+
+https://www.toptal.com/aws-cloud-engineers/aws-certified-solutions-architect-exam-tips
+
+**Front-End**
+
+https://www.libtrends.info/npm-compare/@polymer/polymer-vs-ejs-vs-handlebars-vs-hbs-vs-lit-element-vs-lit-html-vs-mustache-vs-nunjucks-vs-pug-vs-stencil
+
+
+
+**Books:**
+
+Distributed systems for fun and profit
+
+http://book.mixu.net/distsys/
+
+
+**Build**
+
+https://www.educative.io/blog/crack-coding-interview-real-world-problems
+
+
+**Remote**
+
+https://arc.dev/
